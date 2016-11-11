@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## makeCacheMatrix creates a list containing a function to
 ##              1. set the matrix
 ##              2. get the matrix
@@ -78,4 +77,4 @@ makeCacheMatrix <- function(x = matrix()) {
         inv
 }
 
->>>>>>> refs/remotes/origin/master
+
